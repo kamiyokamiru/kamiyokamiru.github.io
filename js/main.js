@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Camille Rosewright.", "A Computer Scientist.", "A Martial Artist.", "A Self-Defense Instructor.", "A Developer.", "A Freelancer."],
+      strings: ["Camille Rosewright.", "A Computer Scientist.", "A Software Developer.", "A Martial Artist.", "A Self-Defense Instructor."],
       typeSpeed: 100,
       loop: true,
     });
